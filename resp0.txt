@@ -1,0 +1,115 @@
+    1  pwd
+    2  ls
+    3  git init
+    4  git status
+    5  git add app.js
+    6  git status
+    7  git add index.html
+    8  git status
+    9  git status
+   10  git add style.css
+   11  git status
+   12  git commit
+   13  git status
+   14  git commit
+   15  git log
+   16  git status
+   17  git status
+   18  git status
+   19  git status
+   20  git checkout -- index.html
+   21  git status
+   22  git diff index.html
+   23  git diff index.html
+   24  git diff indx.html
+   25  git diff index.html
+   26  git status
+   27  git add index.html
+   28  git status
+   29  git commit
+   30  git log
+   31  git status
+   32  git status
+   33  git config --global user.name "Cristian Garcia"
+   34  cdscdss
+   35  global
+   36  --global
+   37  git --global
+   38  git config --global user.email ccgarcia@uc.cl
+   39  git config --list
+   40  git help config
+   41  git init
+   42  git add *.c
+   43  $ git add README
+   44  git add *.c
+   45  git
+   46  git add *.c
+   47  git init
+   48  git add*.c
+   49  git add *.c
+   50  git add README
+   51  git add HEAD
+   52  git add *.c
+   53  cd ~/.ssh && ssh-keygen
+   54  cd
+   55  desktop
+   56  pwd
+   57  git clone https://github.com/IIC2115/Syllabus
+   58  cd Desktop/
+   59  cd
+   60  cd Desktop/
+   61  ls
+   62  ls
+   63  cd L0/
+   64  cd
+   65  cd
+   66  cd back
+   67  cd help
+   68  git add
+   69  git add *
+   70  git comming -m "se sube el lab0"
+   71  git commit -m "se sube el lab 0"
+   72  git clone https://github.com/IIC2115/Syllabus
+   73  git add *
+   74  git commit -m "se sube el lab0"
+   75  git add*
+   76  git add *
+   77  git commit -m "se sube el lab0"
+   78  git push
+   79  git pull
+   80  git add
+   81  git add *.txt
+   82  git add --all
+   83  git push
+   84  git status
+   85  cd
+   86  lis
+   87  ws
+   88  ls
+   89  cd Desktop/
+   90  ls
+   91  git add
+   92  git add *
+   93  git commit -m "hola mundo"
+   94  git add *
+   95  cd
+   96  cd
+   97  Desktop/
+   98  cd Desktop/
+   99  git clone cristian@DESKTOP-PJGRGH9 MINGW64 ~/Desktop/proyecto/Syllabus/L0 (master)
+  100  $ git clone
+  101  git clone cristian@DESKTOP-PJGRGH9 MINGW64 ~/Desktop/proyecto/Syllabus/L0 (master)
+  102  $ git clone
+  103  git clone cristian@DESKTOP-PJGRGH9 MINGW64 ~/Desktop/proyecto/Syllabus/L0 (master)
+  104  $ git clone
+  105  git clone https://github.com/ccgarcia/L0.git
+  106  git add *
+  107  git add *
+  108  git commit -m "hola mundo"
+  109  git push
+  110  git pull
+  111  git doskey
+  112  git doskey /History
+  113  doskey
+  114  doskey /history
+  115  history
